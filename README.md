@@ -5,7 +5,14 @@
 - 📫 Reach me through insta 18ankitjha
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=18ankitjha&theme=outrun&show_icons=true)
-<!---
-18ankitjha/18ankitjha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18ankitjha&theme=tokyonight&layout=compact "> -->
+
+<div style="display: flex; display: -webkit-box; display: -webkit-flex;">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=18ankitjha&theme=green_nur&&background=0d1117&border=444" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=18ankitjha&show_icons=true&title_color=0cebba&icon_color=0cebba&bg_color=0d1117&text_color=FFF&border_color=444&count_private=true" height="150"  style="margin-left: 50px">
+ </div>
