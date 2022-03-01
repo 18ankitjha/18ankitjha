@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 Reach me through insta 18ankitjha
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=18ankitjha&theme=outrun&show_icons=true)
+<!-- ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=18ankitjha&theme=outrun&show_icons=true) -->
 
 
 
