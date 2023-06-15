@@ -1,12 +1,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Ankit Jha</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate web developer and a dsa geek from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=18ankitjha&label=Profile%20views&color=0e75b6&style=flat" alt="abhinandangautam" /> </p>
 
-- 🌱 I’m currently learning **React, Next.js**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my social links are available at **[LinkTree](https://18ankitjha.github.io/Linktree/)**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **[Email](ankitjha01aj@gmail.com)**
 
-- ⚡ Fun fact **I think I love exploring new things**
+- ⚡ Fun fact **I think I love pushing code**
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18ankitjha" alt="18ankitjha" /></a> </p> -->
 
