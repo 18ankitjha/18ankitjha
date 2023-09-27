@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=18ankitjha&label=Profile%20views&color=0e75b6&style=flat" alt="abhinandangautam" /> </p>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my social links are available at **[LinkTree](https://18ankitjha.github.io/Linktree/)**
 
